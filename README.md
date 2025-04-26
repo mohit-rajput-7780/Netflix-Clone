@@ -18,7 +18,7 @@ I created it using **only HTML** and **CSS**, delivering a clean and smooth Netf
 To view the project locally, follow these steps:
 
 ```bash
-git clone https://github.com/your-username/netflix-clone.git
+git clone https://github.com/mohit-rajput-7780/netflix-clone.git
 cd netflix-clone
 open index.html
 ```
