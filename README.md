@@ -14,6 +14,11 @@ I created it using **only HTML** and **CSS**, delivering a clean and smooth Netf
 - HTML5  
 - CSS3  
 
+## Screenshots
+
+[![3VhWLua.md.jpg](https://iili.io/3VhWLua.md.jpg)](https://freeimage.host/i/3VhWLua)
+
+
 ## 📂 Installation  
 To view the project locally, follow these steps:
 
